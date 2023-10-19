@@ -1,7 +1,13 @@
-### Hi there 👋
+### 🤝 Social networks:
+<a href="https://t.me/BehaPortfolio"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=ffffff"/></a>
+<a href="https://https://mail.google.com/mail/u/0/?pli=1#inbox"><img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
+<hr>
 
+### 💻 Technologies:
+
+<img src="https://img.shields.io/badge/HTML-FF8C00?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/css-1E90FF?style=for-the-badge&logo=css3&logoColor=ffffff"/> <img src="https://img.shields.io/badge/bootstrap-8A2BE2?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/> <img src="https://img.shields.io/badge/tailwind css-24294d?style=for-the-badge&logo=tailwind css&logoColor=DarkCyan"/> <img src="https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=A0522D"/> <img src="https://img.shields.io/badge/react-454545?style=for-the-badge&logo=react&logoColor=40E0D0"/> <img src="https://img.shields.io/badge/sass-DA70D6?style=for-the-badge&logo=sass&logoColor=ffffff"/> <img src="https://img.shields.io/badge/git-tomato?style=for-the-badge&logo=git&logoColor=ffffff"/>
 <!--
-**stiantha/stiantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**beharus/beharus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
