@@ -10,9 +10,9 @@
 <img src="https://img.shields.io/badge/sass-DA70D6?style=for-the-badge&logo=sass&logoColor=ffffff"/> <img src="https://img.shields.io/badge/astro-454545?style=for-the-badge&logo=astro&logoColor=40E0D0"/>
 <hr>
 
+### 💻 Some kind of language
+<img src="https://img.shields.io/badge/git-tomato?style=for-the-badge&logo=git&logoColor=ffffff"/>
+
 ### 💻 Big Language
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow"/> 
 <hr>
-
-### 💻 Some kind of language
-<img src="https://img.shields.io/badge/git-tomato?style=for-the-badge&logo=git&logoColor=ffffff"/>
