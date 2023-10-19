@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/sass-DA70D6?style=for-the-badge&logo=sass&logoColor=ffffff"/> <img src="https://img.shields.io/badge/astro-454545?style=for-the-badge&logo=astro&logoColor=40E0D0"/>
 <hr>
 
-### 💻 Noegreier
+### 💻 Noe greier
 <img src="https://img.shields.io/badge/git-tomato?style=for-the-badge&logo=git&logoColor=ffffff"/>
 
 ### 💻 Stormskritt
