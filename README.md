@@ -1,5 +1,5 @@
 ### 🤝 Social networks:
-<a href="https://discord.com/users/168427950230732801"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=discord&logoColor=ffffff"/></a>
+<a href="https://discord.com/users/168427950230732801"><img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=ffffff"/></a>
 <a href="https://https://mail.google.com/mail/u/0/?pli=1#inbox"><img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
 <hr>
 
