@@ -1,5 +1,5 @@
 ### 🤝 Socials
-<a href="https://discord.com/users/168427950230732801"><img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=ffffff"/></a>
+<a href="https://discord.com/users/168427950230732801"><img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=ffffff"/></a>
 <a href="https://www.figma.com/@stiantha"><img src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=ffffff"/></a>
 <hr>
 
