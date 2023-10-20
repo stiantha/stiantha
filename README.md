@@ -6,8 +6,9 @@
 <a href="https://discord.com/users/168427950230732801"><img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=blue"/></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&locale=en" alt="stiantha" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha&" alt="stiantha" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&show_icons=true&locale=en" alt="stiantha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha&" alt="stiantha" /></p>
+
 
 
 <a href="https://www.figma.com/@stiantha"><img src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=ffffff"/></a>
