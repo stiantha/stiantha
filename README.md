@@ -7,7 +7,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&locale=en" alt="stiantha" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha&" alt="stiantha" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&show_icons=true&locale=en" alt="stiantha" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&show_icons=true&locale=en&style=compact" alt="stiantha" /></p>
 
 
 
