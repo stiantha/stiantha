@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Stian</h1>
-<h3 align="center">I'm passionate about Full Stack Development.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stiantha&label=Profile%20views&color=0e75b6&style=flat" alt="stiantha" /> </p>
 
 <a href="https://discord.com/users/168427950230732801"><img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=blue"/></a>
