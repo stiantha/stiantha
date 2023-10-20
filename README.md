@@ -5,9 +5,9 @@
 
 <a href="https://discord.com/users/168427950230732801"><img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=blue"/></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&show_icons=true&locale=en&layout=compact" alt="stiantha" /><p><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&locale=en&layout=compact" alt="stiantha" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha&layout=compact" alt="stiantha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&show_icons=true&locale=en&layout=compact" alt="stiantha" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&locale=en&layout=compact" alt="stiantha" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha&layout=compact" alt="stiantha" /></p>
 
 
 
