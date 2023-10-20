@@ -1,4 +1,3 @@
-<h1 align="left">👋, I'm Stian</h1>
 <h3 align="left">Socials:</h3>
 <a href="https://discord.com/users/168427950230732801"><img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=blue"/></a>
 <h3 align="left">Stats:</h3>
