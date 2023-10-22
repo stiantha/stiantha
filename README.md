@@ -1,4 +1,5 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Currently_learning-Astro-orange%22?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Next_on_the_chopping_block-Web%20Database-blue%22?style=for-the-badge&color=blue">
 <h3 align="left">Socials:</h3>
 <a href="https://discord.com/users/168427950230732801"><img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=blue"/></a>
 <a href="stiantha"><img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=wolf&logoColor=blue"/></a>
