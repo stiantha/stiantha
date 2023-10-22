@@ -2,10 +2,11 @@
 <img src="https://img.shields.io/badge/Currently_learning-Astro-orange%22?style=for-the-badge&color=teal">
 <img src="https://img.shields.io/badge/Next_on_the_chopping_block-Web%20Database-blue%22?style=for-the-badge&color=blue">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha&theme=dark#gh-dark-mode-only"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut-vertical&theme=dark#gh-dark-mode-only">
-
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&card_width=466"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut-vertical&theme=dark#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only">
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.figma.com/@stiantha"><img src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/HTML-FF8C00?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> 
