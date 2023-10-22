@@ -3,10 +3,10 @@
 <img src="https://img.shields.io/badge/Next_on_the_chopping_block-Web%20Database-blue%22?style=for-the-badge&color=blue">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only" />
+  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut-vertical&theme=dark#gh-dark-mode-only&hide_border">
+<img height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut-vertical&theme=dark#gh-dark-mode-only&hide_border">
   </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=500 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&langs_count=8&card_width=500" />
