@@ -11,7 +11,7 @@
 <div>
 <hr>
 <h3 align="left">Knowledge</h3>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/90%25-_%2B-green">
+<p><img alt="Static Badge" src="https://img.shields.io/badge/90%25-_%2B-green"> |
 <img src="https://img.shields.io/badge/HTML-FF8C00?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/css-1E90FF?style=for-the-badge&logo=css3&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=ffffff"/></a>
