@@ -25,6 +25,6 @@
 <img src="https://img.shields.io/badge/astro-454545?style=for-the-badge&logo=astro&logoColor=40E0D0"/>
 </p>
 <p><img alt="Static Badge" src="https://img.shields.io/badge/%3C-15%25-cyan"><br>
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?logo=csharp">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?logo=csharp&style=for-the-badge">
  
 </div>
