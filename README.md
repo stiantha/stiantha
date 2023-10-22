@@ -4,7 +4,7 @@
 <div display="flex">
 <img src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only"> 
 <img align="left"src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha&theme=dark#gh-dark-mode-only"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut-vertical&theme=dark#gh-dark-mode-only">
+<img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut-vertical&theme=dark#gh-dark-mode-only">
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p>
