@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Next_on_the_chopping_block-Web%20Database-blue%22?style=for-the-badge&color=blue">
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut-vertical&theme=dark#gh-dark-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&theme=dark#gh-dark-mode-only&locale=en"/>
+<img src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&theme=dark#gh-dark-mode-only&locale=en&hide=contribs,prs">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha&theme=dark#gh-dark-mode-only"/>
   </div>
 <h3 align="left">Languages and Tools:</h3>
