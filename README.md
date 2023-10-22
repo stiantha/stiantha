@@ -6,7 +6,7 @@
   <hr>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only" />
 <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&langs_count=8&card_width=600" />
-<img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut&theme=dark#gh-dark-mode-only&card_width=620">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut&theme=dark#gh-dark-mode-only&card_width=620">
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/HTML-FF8C00?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> 
