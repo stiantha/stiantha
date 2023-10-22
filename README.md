@@ -2,8 +2,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Currently_learning-Astro-orange%22?style=for-the-badge&color=teal">
 <img alt="Static Badge" src="https://img.shields.io/badge/Next_on_the_chopping_block-Web%20Database-blue%22?style=for-the-badge&color=blue">
 <pa lign="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&show_icons=true&locale=en&layout=compact" alt="stiantha" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&locale=en" alt="stiantha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha" alt="stiantha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&theme=dark&locale=en" alt="stiantha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha&theme=dark" alt="stiantha" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <p>
 <a href="https://www.figma.com/@stiantha"><img src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=ffffff"/></a>
