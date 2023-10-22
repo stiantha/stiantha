@@ -26,7 +26,7 @@
 </p>
 <p><img alt="Static Badge" src="https://img.shields.io/badge/%3C-15%25-cyan"><br>
 <img src="https://img.shields.io/badge/astro-454545?style=for-the-badge&logo=astro&logoColor=40E0D0"/>
-<img src="https://img.shields.io/badge/C#-454545?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C#-454545?style=for-the-badge&logo=csharp&logoColor=40E0D0"/>
 <img src="https://img.shields.io/badge/astro-454545?style=for-the-badge&logo=c#&logoColor=40E0D0"/>
  
 </div>
