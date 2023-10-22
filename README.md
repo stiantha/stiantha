@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/any_text-you_like-blue">
+<img src="https://img.shields.io/badge/Currently_learning-Astro-orange">
 <h3 align="left">Socials:</h3>
 <a href="https://discord.com/users/168427950230732801"><img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=blue"/></a>
 <a href="stiantha"><img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=wolf&logoColor=blue"/></a>
