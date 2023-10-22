@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Currently_learning-Astro-orange%22?style=for-the-badge&color=teal">
 <img src="https://img.shields.io/badge/Next_on_the_chopping_block-Web%20Database-blue%22?style=for-the-badge&color=blue">
 <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only" />
-<img height=300 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&langs_count=8&card_width=530" />
+<img height=300 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&langs_count=8" />
 <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut-vertical&theme=dark#gh-dark-mode-only&hide_border">
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=ffffff"/></a>
