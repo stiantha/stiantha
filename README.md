@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Next_on_the_chopping_block-Web%20Database-blue%22?style=for-the-badge&color=blue">
 <img src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha&theme=dark#gh-dark-mode-only"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut-vertical&theme=dark#gh-dark-mode-only">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&layout=donut-vertical&theme=dark#gh-dark-mode-only">
 <h3 align="left">Languages and Tools:</h3>
 <p>
 <a href="https://www.figma.com/@stiantha"><img src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=ffffff"/></a>
