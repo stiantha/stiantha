@@ -21,9 +21,9 @@
 </div>
 <hr>
 <p>
-<img height=200 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&langs_count=8" />
+<img height=285 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&card_width=320" />
 </p>
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&theme=dark#gh-dark-mode-only" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&theme=dark#gh-dark-mode-only&card_width=520" />
 </p>
 <img src="https://komarev.com/ghpvc/?username=stiantha&label=Profile%20views&color=145369&style=for-the-badge">
