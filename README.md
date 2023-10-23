@@ -1,5 +1,6 @@
 <img src="https://img.shields.io/badge/Currently_learning-Astro-orange%22?style=for-the-badge&color=teal">
 <img src="https://img.shields.io/badge/Next_on_the_chopping_block-Web%20Database-blue%22?style=for-the-badge&color=blue">
+<hr>
 <div>
 <p>
 <img src="https://img.shields.io/badge/90%25_-<-green?style=for-the-badge"><img alt="Static Badge" src="https://img.shields.io/badge/Knowledge_-=-green?style=for-the-badge">
