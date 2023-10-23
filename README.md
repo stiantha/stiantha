@@ -21,7 +21,7 @@
 </div>
 <hr>
 <p>
-<img height=285 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&card_width=340" />
+<img height=285 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&card_width=330" />
 </p>
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&theme=dark#gh-dark-mode-only&card_width=520" />
