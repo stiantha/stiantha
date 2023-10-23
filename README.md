@@ -1,10 +1,6 @@
-<p>
-<img align=left src="https://komarev.com/ghpvc/?username=stiantha&label=Profile%20views&color=145369&style=for-the-badge"/>
-<img align=left src="https://img.shields.io/badge/Currently_learning-Astro-orange%22?style=for-the-badge&color=teal">
-<img align=left src="https://img.shields.io/badge/Next_on_the_chopping_block-Web%20Database-blue%22?style=for-the-badge&color=blue">
-</p>
- <br>
-<hr>
+<img src="https://komarev.com/ghpvc/?username=stiantha&label=Profile%20views&color=145369&style=for-the-badge">
+<img src="https://img.shields.io/badge/Currently_learning-Astro-orange%22?style=for-the-badge&color=teal">
+<img src="https://img.shields.io/badge/Next_on_the_chopping_block-Web%20Database-blue%22?style=for-the-badge&color=blue">
 <div>
 <p>
 <img src="https://img.shields.io/badge/90%25_-<-green?style=for-the-badge"><img alt="Static Badge" src="https://img.shields.io/badge/Knowledge_-=-green?style=for-the-badge">
