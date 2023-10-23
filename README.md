@@ -1,6 +1,7 @@
 <p>
 <img src="https://img.shields.io/badge/Currently_learning-Astro-orange%22?style=for-the-badge&color=teal">
 <img src="https://img.shields.io/badge/Next_on_the_chopping_block-Web%20Database-blue%22?style=for-the-badge&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?logo=csharp&style=for-the-badge">
 </p>
 <hr>
 <div>
@@ -19,7 +20,6 @@
 <img src="https://img.shields.io/badge/astro-454545?style=for-the-badge&logo=astro&logoColor=40E0D0"/>
 </p>
 <p><img src="https://img.shields.io/badge/15%25_->-orange?style=for-the-badge"><img alt="Static Badge" src="https://img.shields.io/badge/Knowledge_-=-orange?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?logo=csharp&style=for-the-badge">
 </div>
 <hr>
 <p>
