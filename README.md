@@ -24,6 +24,6 @@
 <img height=200 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&langs_count=8" />
 </p>
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&langs_count=8&theme=dark#gh-dark-mode-only&card_width=620" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&theme=dark#gh-dark-mode-only" />
 </p>
 <img src="https://komarev.com/ghpvc/?username=stiantha&label=Profile%20views&color=145369&style=for-the-badge">
