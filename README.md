@@ -26,4 +26,5 @@
 <p>
 <img align="center ight" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&theme=dark#gh-dark-mode-only&card_width=520" />
 </p>
+<hr>
 <img src="https://komarev.com/ghpvc/?username=stiantha&label=Profile%20views&color=145369&style=for-the-badge">
