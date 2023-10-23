@@ -6,20 +6,20 @@
  <br>
 <hr>
 <div>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/90%25-_%2B-green"><br>
+<p><img alt="Static Badge" src="https://img.shields.io/badge/Knowledge_->-green"><img alt="Static Badge" src="https://img.shields.io/badge/90%25-gray"><br>
 <img src="https://img.shields.io/badge/HTML-FF8C00?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/css-1E90FF?style=for-the-badge&logo=css3&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=ffffff"/></a>
 </p>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/50%25-_%2B-blue"><br>
+<p><img alt="Static Badge" src="https://img.shields.io/badge/Knowledge_->-blue"><img alt="Static Badge" src="https://img.shields.io/badge/50%25-gray"><br>
 <img src="https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=A0522D"/>
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow"/>
 </p> 
-<p><img alt="Static Badge" src="https://img.shields.io/badge/15%25-_%2B-orange"><br>
+<p><img alt="Static Badge" src="https://img.shields.io/badge/Knowledge_->-orange"><img alt="Static Badge" src="https://img.shields.io/badge/15%25-gray"><br>
 <img src="https://img.shields.io/badge/sass-DA70D6?style=for-the-badge&logo=sass&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/astro-454545?style=for-the-badge&logo=astro&logoColor=40E0D0"/>
 </p>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/%3C-15%25-cyan"><br>
+<p><img alt="Static Badge" src="https://img.shields.io/badge/Knowledge_-<-teal"><img alt="Static Badge" src="https://img.shields.io/badge/15%25-gray"><br>
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?logo=csharp&style=for-the-badge">
 </div>
 <hr>
