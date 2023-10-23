@@ -20,7 +20,10 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?logo=csharp&style=for-the-badge">
 </div>
 <hr>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stiantha&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only" />
-<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&langs_count=8&card_width=605" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&langs_count=8&card_width=620&theme=dark#gh-dark-mode-only" />
+<p>
+<img height=200 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&langs_count=8" />
+</p>
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&langs_count=8&theme=dark#gh-dark-mode-only" />
+</p>
 <img src="https://komarev.com/ghpvc/?username=stiantha&label=Profile%20views&color=145369&style=for-the-badge">
