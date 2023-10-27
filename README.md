@@ -22,7 +22,9 @@
 <img src="https://img.shields.io/badge/15%25_->-orange?style=for-the-badge"><img alt="Static Badge" src="https://img.shields.io/badge/Knowledge_-=-orange?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?logo=csharp&style=for-the-badge">
 </div>
-<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div>
+<img align="right"alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  </div>
 <hr>
 <p>
 <img height=285 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&card_width=330" />
