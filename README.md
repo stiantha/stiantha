@@ -18,8 +18,6 @@
 </p> 
 <p>
 <img src="https://img.shields.io/badge/25%25_--blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/sass-DA70D6?style=for-the-badge&logo=sass&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/astro-454545?style=for-the-badge&logo=astro&logoColor=40E0D0"/>
 </p>
 <p>
 <img alt="10%" src="https://img.shields.io/badge/10%25_--orange?style=for-the-badge">
@@ -31,6 +29,7 @@
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img alt="SASS"src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
 <hr>
 <p>
 <img height=285 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&card_width=330" />
