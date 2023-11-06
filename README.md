@@ -13,7 +13,7 @@
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 <p><img src="https://img.shields.io/badge/50%25_--teal?style=for-the-badge">
-<img src="https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=A0522D"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow"/>
 </p> 
 <p><img src="https://img.shields.io/badge/25%25_--blue?style=for-the-badge">
