@@ -3,7 +3,6 @@
 <img src="https://img.shields.io/badge/Next_on_the_chopping_block-Web Storage-blue%22?style=for-the-badge&color=blue">
 </p>
 <hr>
-<div>
 <p>
 <img src="https://img.shields.io/badge/90%25_--green?style=for-the-badge">
 <img alt="HTML"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -12,14 +11,19 @@
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
-<p><img src="https://img.shields.io/badge/50%25_--teal?style=for-the-badge">
+<hr>
+<p>
+<img src="https://img.shields.io/badge/50%25_--teal?style=for-the-badge">
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow"/>
 </p> 
-<p><img src="https://img.shields.io/badge/25%25_--blue?style=for-the-badge">
+<hr>
+<p>
+<img src="https://img.shields.io/badge/25%25_--blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/sass-DA70D6?style=for-the-badge&logo=sass&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/astro-454545?style=for-the-badge&logo=astro&logoColor=40E0D0"/>
 </p>
+<hr>
 <p>
 <img alt="10%" src="https://img.shields.io/badge/10%25_--orange?style=for-the-badge">
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -30,11 +34,6 @@
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <div>
-<!-- <img alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-</div>
-</div>
-
 <hr>
 <p>
 <img height=285 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&card_width=330" />
