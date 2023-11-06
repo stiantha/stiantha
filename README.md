@@ -14,12 +14,12 @@
 <img src="https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=A0522D"/>
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow"/>
 </p> 
-<p><img src="https://img.shields.io/badge/15%25_--blue?style=for-the-badge">
+<p><img src="https://img.shields.io/badge/25%25_--blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/sass-DA70D6?style=for-the-badge&logo=sass&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/astro-454545?style=for-the-badge&logo=astro&logoColor=40E0D0"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/5%25_--orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/10%25_--orange?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?logo=csharp&style=for-the-badge">
   <div>
 <!-- <img alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
