@@ -5,7 +5,7 @@
 <hr>
 <div>
 <p>
-<img src="https://img.shields.io/badge/90%25_-<-green?style=for-the-badge"><img alt="Static Badge" src="https://img.shields.io/badge/Knowledge_-=-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/90%25_-<-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/HTML-FF8C00?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/css-1E90FF?style=for-the-badge&logo=css3&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=ffffff"/></a>
