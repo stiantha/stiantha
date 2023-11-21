@@ -1,5 +1,5 @@
 Hi 👋<br>I'm Stian Tharaldsen<br><br>
-Full Stack Developer
+~ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Oslo, Norway
