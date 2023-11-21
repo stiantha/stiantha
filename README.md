@@ -1,9 +1,5 @@
-Hi 👋<br>
-I'm Stian Tharaldsen<br>
+
 ${fullStackDeveloper}
-
---------------------
-
 * 🌍  I'm based in Oslo, Norway
 * 🖥️  See my portfolio at [stiantha.com](http://stiantha.com)
 * ✉️  You can contact me at [stiant@getacademy.no](mailto:stiant@getacademy.no)
