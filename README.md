@@ -1,5 +1,4 @@
 Hi 👋<br>I'm Stian Tharaldsen
-=================================
 Full Stack Developer
 --------------------
 
