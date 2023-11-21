@@ -1,11 +1,11 @@
 
 * 👔  Full Stack Developer
 * 🌍  I'm based in Oslo, Norway
-* 🖥️  See my portfolio at [stiantha.com](http://stiantha.com)
-* ✉️  You can contact me at [stiant@getacademy.no](mailto:stiant@getacademy.no)
 * 🚀  I'm currently working on C#
 * 🧠  I'm learning object oriented programming
 * ⚡  Educated during the new era (Artificial Intelligence)
+* 🖥️  See my portfolio at [stiantha.com](http://stiantha.com)
+* ✉️  You can contact me at [stiant@getacademy.no](mailto:stiant@getacademy.no)
 ----------------------------------------
 ### Skills
 
