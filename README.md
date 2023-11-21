@@ -1,4 +1,4 @@
-Hi 👋<br>I'm Stian Tharaldsen<br>
+Hi 👋<br>I'm Stian Tharaldsen<br><br>
 Full Stack Developer
 --------------------
 
