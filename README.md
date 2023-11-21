@@ -1,6 +1,7 @@
 Hi 👋<br>
 I'm Stian Tharaldsen<br>
 ${fullStackDeveloper}
+
 --------------------
 
 * 🌍  I'm based in Oslo, Norway
@@ -9,7 +10,7 @@ ${fullStackDeveloper}
 * 🚀  I'm currently working on [C#](http://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 * 🧠  I'm learning object oriented programming
 * ⚡  Educated during the new era (Artificial Intelligence)
---------------------
+----------------------------------------
 ### Skills
 
 
