@@ -1,4 +1,4 @@
-Hi 👋 My name is Stian Tharaldsen
+Hi 👋<br>My name is Stian Tharaldsen
 =================================
 
 Full Stack Developer
