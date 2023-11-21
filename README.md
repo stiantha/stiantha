@@ -26,7 +26,19 @@ Full Stack Developer
 <p>
 <img height=285 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=stiantha&theme=dark&layout=compact&card_width=330" />
 </p>
+
 <p>
-<img align="center ight" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&theme=dark#gh-dark-mode-only&card_width=520" />
+<img align="center right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiantha&theme=dark#gh-dark-mode-only&card_width=520" />
 </p>
 <hr>
+
+<p>
+<img height=285 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=stiantha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=330" />
+</p>
+
+<p>
+<img align="center right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiantha&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&card_width=520" />
+</p>
+<hr>
+
+
