@@ -17,7 +17,8 @@ I'm Stian Tharaldsen
 
 ### Certificates
 <img height="60px" src="https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png"/>
-
+<ul>
+  
 [Google Data Analytics](https://coursera.org/verify/professional-cert/3HJ2UZLUVD8Q)
 
 [Google Advanced Data Analytics Specialization](https://coursera.org/verify/professional-cert/2RHF73AETLM4)
@@ -28,14 +29,20 @@ I'm Stian Tharaldsen
 
 [Cybersecurity](https://coursera.org/verify/professional-cert/WRZVBUCBP3VA)
 
+</ul>
 <br>
 
 <img height="60px" src="https://dl-staging-website.ghost.io/content/images/2021/04/LogoFiles_DeepLearning_PrimaryLogo.png"/>
-
+<ul>
+  
 [Machine Learning](https://coursera.org/verify/specialization/HUD5S674NAAB)
 
+</ul>
 <br>
 
 <img height="40px" src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Horizontal-Hex.png"/>
-
+<ul>
+  
 [Python for Everybody](https://coursera.org/verify/specialization/XVMJ54TFUCZA)
+
+</ul>
