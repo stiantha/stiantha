@@ -19,3 +19,33 @@ I'm Stian Tharaldsen
 
 <p align="left"> <a href="https://www.codepen.io/stiantha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/stiantha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/stiantha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 <hr>
+
+### Certificates
+
+Kurs: Machine Learning 
+Utreder: DeepLearning.AI
+Sertifikat: https://coursera.org/verify/specialization/HUD5S674NAAB
+
+Kurs: Python for Everybody
+Utreder: Univercity of Michigan 
+Sertifikat: https://coursera.org/verify/specialization/XVMJ54TFUCZA
+
+Kurs: Google Data Analytics
+Utreder: Google
+Sertifikat: https://coursera.org/verify/professional-cert/3HJ2UZLUVD8Q
+
+Kurs: Google Advanced Data Analytics Specialization
+Utreder: Google
+Sertifikat: https://coursera.org/verify/professional-cert/2RHF73AETLM4
+
+Kurs: Google IT Support
+Utreder: Google
+Sertifikat:: https://coursera.org/verify/professional-cert/QC5L85AYTTNV
+
+Kurs: Google Business Intelligence Specialization
+Utreder: Google
+Sertifikat:: https://coursera.org/verify/professional-cert/ESHY26P2XBEE
+
+Kurs: Google Cybersecurity
+Utreder: Google
+Sertifikat: https://coursera.org/verify/professional-cert/WRZVBUCBP3VA
