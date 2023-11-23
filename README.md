@@ -16,14 +16,6 @@ I'm Stian Tharaldsen
 <p align="left"> <a href="https://www.codepen.io/stiantha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/stiantha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/stiantha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Certificates
-<img height="100px" src="https://aihubtest-bucket.s3.eu-north-1.amazonaws.com/public/storage/images/6066/https---cdn.evbuc.com-images-125559383-317212851579-1-original.20210208-232017.png"/>
-
-[Machine Learning](https://coursera.org/verify/specialization/HUD5S674NAAB)
-
-<img height="100px" src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png"/>
-
-[Python for Everybody](https://coursera.org/verify/specialization/XVMJ54TFUCZA)
-
 <img height="60px" src="https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png"/>
 
 [Google Data Analytics](https://coursera.org/verify/professional-cert/3HJ2UZLUVD8Q)
@@ -35,3 +27,15 @@ I'm Stian Tharaldsen
 [Google Business Intelligence Specialization](https://coursera.org/verify/professional-cert/ESHY26P2XBEE)
 
 [Cybersecurity](https://coursera.org/verify/professional-cert/WRZVBUCBP3VA)
+
+<br>
+
+<img height="60px" src="https://dl-staging-website.ghost.io/content/images/2021/04/LogoFiles_DeepLearning_PrimaryLogo.png"/>
+
+[Machine Learning](https://coursera.org/verify/specialization/HUD5S674NAAB)
+
+<br>
+
+<img height="40px" src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Horizontal-Hex.png"/>
+
+[Python for Everybody](https://coursera.org/verify/specialization/XVMJ54TFUCZA)
