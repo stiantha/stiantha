@@ -22,30 +22,19 @@ I'm Stian Tharaldsen
 
 ### Certificates
 
-Kurs: Machine Learning 
-Utreder: DeepLearning.AI
-Sertifikat: https://coursera.org/verify/specialization/HUD5S674NAAB
+DeepLearning.AI
+[Machine Learning](https://coursera.org/verify/specialization/HUD5S674NAAB)
 
-Kurs: Python for Everybody
-Utreder: Univercity of Michigan 
-Sertifikat: https://coursera.org/verify/specialization/XVMJ54TFUCZA
+Univercity of Michigan
+[Python for Everybody](https://coursera.org/verify/specialization/XVMJ54TFUCZA)
 
-Kurs: Google Data Analytics
-Utreder: Google
-Sertifikat: https://coursera.org/verify/professional-cert/3HJ2UZLUVD8Q
+Google
+[Google Data Analytics](https://coursera.org/verify/professional-cert/3HJ2UZLUVD8Q)
 
-Kurs: Google Advanced Data Analytics Specialization
-Utreder: Google
-Sertifikat: https://coursera.org/verify/professional-cert/2RHF73AETLM4
+[Google Advanced Data Analytics Specialization](https://coursera.org/verify/professional-cert/2RHF73AETLM4)
 
-Kurs: Google IT Support
-Utreder: Google
-Sertifikat:: https://coursera.org/verify/professional-cert/QC5L85AYTTNV
+[Google IT Support](https://coursera.org/verify/professional-cert/QC5L85AYTTNV)
 
-Kurs: Google Business Intelligence Specialization
-Utreder: Google
-Sertifikat:: https://coursera.org/verify/professional-cert/ESHY26P2XBEE
+[Google Business Intelligence Specialization](https://coursera.org/verify/professional-cert/ESHY26P2XBEE)
 
-Kurs: Google Cybersecurity
-Utreder: Google
-Sertifikat: https://coursera.org/verify/professional-cert/WRZVBUCBP3VA
+[Cybersecurity](https://coursera.org/verify/professional-cert/WRZVBUCBP3VA)
