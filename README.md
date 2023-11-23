@@ -19,13 +19,13 @@ I'm Stian Tharaldsen
 <img height="60px" src="https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png"/>
 <ul>
   
-[Google Data Analytics](https://coursera.org/verify/professional-cert/3HJ2UZLUVD8Q)
+[Data Analytics](https://coursera.org/verify/professional-cert/3HJ2UZLUVD8Q)
 
-[Google Advanced Data Analytics Specialization](https://coursera.org/verify/professional-cert/2RHF73AETLM4)
+[Advanced Data Analytics Specialization](https://coursera.org/verify/professional-cert/2RHF73AETLM4)
 
-[Google IT Support](https://coursera.org/verify/professional-cert/QC5L85AYTTNV)
+[IT Support](https://coursera.org/verify/professional-cert/QC5L85AYTTNV)
 
-[Google Business Intelligence Specialization](https://coursera.org/verify/professional-cert/ESHY26P2XBEE)
+[Business Intelligence Specialization](https://coursera.org/verify/professional-cert/ESHY26P2XBEE)
 
 [Cybersecurity](https://coursera.org/verify/professional-cert/WRZVBUCBP3VA)
 
