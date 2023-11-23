@@ -1,11 +1,11 @@
 I'm Stian Tharaldsen
 * 👔  Full Stack Developer
 * 🌍  Oslo, Norway
+* ⚡  Educated during the ai era
+* * 🚀  I'm currently working on N/A
 * 🧠  I'm currently learning OOP in C#
-* 🚀  I'm currently working on N/A
 * 🖥️  See my portfolio at [stiantha.com](http://stiantha.com)
 * ✉️  You can contact me at [stiant@getacademy.no](mailto:stiant@getacademy.no)
-* ⚡  Educated during the ai era
 ----------------------------------------
 ### Skills
 <p align="left">
