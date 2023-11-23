@@ -1,4 +1,4 @@
-I'm Stian Tharaldsen
+### I'm Stian Tharaldsen
 * 👔  Full Stack Developer
 * 🌍  Oslo, Norway
 * ⚡  Educated during the ai era
