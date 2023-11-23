@@ -21,11 +21,11 @@ I'm Stian Tharaldsen
   
 [Data Analytics](https://coursera.org/verify/professional-cert/3HJ2UZLUVD8Q)
 
-[Advanced Data Analytics Specialization](https://coursera.org/verify/professional-cert/2RHF73AETLM4)
+[Advanced Data Analytics](https://coursera.org/verify/professional-cert/2RHF73AETLM4)
 
 [IT Support](https://coursera.org/verify/professional-cert/QC5L85AYTTNV)
 
-[Business Intelligence Specialization](https://coursera.org/verify/professional-cert/ESHY26P2XBEE)
+[Business Intelligence](https://coursera.org/verify/professional-cert/ESHY26P2XBEE)
 
 [Cybersecurity](https://coursera.org/verify/professional-cert/WRZVBUCBP3VA)
 
