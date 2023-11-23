@@ -1,4 +1,4 @@
-
+I'm Stian Tharaldsen
 * 👔  Full Stack Developer
 * 🌍  Oslo, Norway
 * 🧠  I'm currently learning OOP in C#
