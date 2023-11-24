@@ -46,3 +46,6 @@
 [Python for Everybody](https://coursera.org/verify/specialization/XVMJ54TFUCZA)
 
 </ul>
+<br>
+
+<img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1280px-Microsoft_logo_%282012%29.svg.png"/>
