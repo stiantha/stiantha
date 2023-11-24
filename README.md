@@ -2,8 +2,8 @@
 * 🌍  Oslo, Norway
 * 👔  Full Stack Developer
 * ⚡  Educated during the ai era
-* 🚀  I'm currently working on N/A
 * 🧠  I'm currently learning OOP in C#
+* 🚀  I'm currently working on my portfolio
 * 🖥️  See my portfolio at [stiantha.com](http://stiantha.com)
 * ✉️  You can contact me at [stiant@getacademy.no](mailto:stiant@getacademy.no)
 
