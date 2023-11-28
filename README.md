@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://www.codepen.io/stiantha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/stiantha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/stiantha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Certificates
-<img height="60px" src="https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png"/>
+<img height="40px" src="https://cdn.freebiesupply.com/images/large/2x/google-logo-transparent.png"/>
 <ul>
   
 [Data Analytics](https://coursera.org/verify/professional-cert/3HJ2UZLUVD8Q)
@@ -32,7 +32,7 @@
 </ul>
 <br>
 
-<img height="60px" src="https://dl-staging-website.ghost.io/content/images/2021/04/LogoFiles_DeepLearning_PrimaryLogo.png"/>
+<img height="40px" src="https://dl-staging-website.ghost.io/content/images/2021/04/LogoFiles_DeepLearning_PrimaryLogo.png"/>
 <ul>
   
 [Machine Learning](https://coursera.org/verify/specialization/HUD5S674NAAB)
@@ -40,7 +40,7 @@
 </ul>
 <br>
 
-<img height="40px" src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Horizontal-Hex.png"/>
+<img height="25px" src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Horizontal-Hex.png"/>
 <ul>
   
 [Python for Everybody](https://coursera.org/verify/specialization/XVMJ54TFUCZA)
@@ -48,4 +48,4 @@
 </ul>
 <br>
 
-<img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1280px-Microsoft_logo_%282012%29.svg.png"/>
+<img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1280px-Microsoft_logo_%282012%29.svg.png"/>
