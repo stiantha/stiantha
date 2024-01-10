@@ -1,7 +1,5 @@
 ### I'm Stian Tharaldsen
 * 🌍  Oslo, Norway
-* 👔  Full Stack Developer
-* ⚡  Educated during the ai era
 * 🧠  I'm currently learning OOP in C#
 * 🚀  I'm currently working on my portfolio
 * 🖥️  See my portfolio at [stiantha.com](http://stiantha.com)
