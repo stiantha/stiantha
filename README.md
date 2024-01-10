@@ -45,4 +45,3 @@
 
 </ul>
 <br>
-/*<img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1280px-Microsoft_logo_%282012%29.svg.png"/>*/
