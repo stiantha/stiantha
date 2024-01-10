@@ -1,7 +1,7 @@
 ### I'm Stian Tharaldsen
 * 🌍  Oslo, Norway
-* 🧠  I'm currently learning OOP in C#
 * 🚀  I'm currently working on my portfolio
+
 * 🖥️  See my portfolio at [stiantha.com](http://stiantha.com)
 * ✉️  You can contact me at [stiant@getacademy.no](mailto:stiant@getacademy.no)
 
