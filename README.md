@@ -4,7 +4,7 @@
 * 🖥️  Portfolio [stiantha.com](http://stiantha.com)
 * ✉️  Kontakt [stiant@getacademy.no](mailto:stiant@getacademy.no)
   
-💎  Mine interesseområder inkluderer design av brukergrensesnitt, strukturerte og lett tilgjengelige løsninger, automatisering og organisering av data.<br> 
+💎  Interesseområder: Design av brukergrensesnitt, strukturerte og lett tilgjengelige løsninger.<br> 
 🚀  Jeg søker stadig etter nye utfordringer for å utvide min kunnskap og forbedre mine ferdigheter.<br> 
 〽️  Mitt mål er ikke bare å mestre koding som et fag, men å skape innovative løsninger som kan ha en positiv innvirkning på brukeropplevelsen og effektiviteten i ethvert prosjekt jeg engasjerer meg i.     <br>  
 ### Stack
