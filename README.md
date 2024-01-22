@@ -1,4 +1,4 @@
-### I'm Stian Tharaldsen
+### Hei, jeg heter Stian Tharaldsen
 * 🌍  Oslo, Norway
 * 🖥️  Portfolio [stiantha.com](http://stiantha.com)
 * ✉️  Kontakt [stiant@getacademy.no](mailto:stiant@getacademy.no)
