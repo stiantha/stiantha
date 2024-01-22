@@ -3,7 +3,7 @@
 * 🧓  27 år
 * 🖥️  Portfolio [stiantha.com](http://stiantha.com) (Pågående prosjekt)
 * ✉️  Kontakt [stiant@getacademy.no](mailto:stiant@getacademy.no)
-  
+*******************************************************************************************************  
 * 💎  Interesseområder: Design av brukergrensesnitt, strukturerte og lett tilgjengelige løsninger.<br> 
 * 🚀  Jeg søker stadig etter nye utfordringer for å utvide min kunnskap og forbedre mine ferdigheter.<br> 
 * 〽️  Mitt mål er ikke bare å mestre koding som et fag, men å skape innovative løsninger som kan ha en positiv innvirkning på<br>         brukeropplevelsen og effektiviteten i ethvert prosjekt jeg engasjerer meg i.     <br>  
