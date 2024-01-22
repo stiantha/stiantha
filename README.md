@@ -1,7 +1,6 @@
 ### Hei, jeg heter Stian Tharaldsen
 * 🌍  Oslo, Norway
 * 🧓  27 år
-* 🖥️  Portfolio [stiantha.com](http://stiantha.com) (Pågående prosjekt)
 * ✉️  Kontakt [stiant@getacademy.no](mailto:stiant@getacademy.no)
 *******
 * 💎  Interesseområder: Design av brukergrensesnitt, strukturerte og lett tilgjengelige løsninger.<br> 
