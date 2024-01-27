@@ -1,4 +1,3 @@
-### Hei, jeg heter Stian Tharaldsen
 🌍  Oslo, Norway <br>
 🧓  27 år <br>
 ✉️  [stiant@getacademy.no](mailto:stiant@getacademy.no) <br>
