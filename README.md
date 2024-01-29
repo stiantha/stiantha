@@ -3,19 +3,22 @@
 ```python
 const currentDate = new Date();
 
-def create_github_profile():
+def github_profile():
     return {
+
         "personalInfo": {
             "age": 27,
             "origin": ["Grefsen", "Oslo", "Norway"],
             "passion": ["UI Design", "Responsive Web Design", "New Technologies"],
         },
+
         "tech": {
             "languages": ["Javascript", "Typescript", "Python", ".NET"],
             "stack": ["MongoDB", "Express", "React", "Node"],
             "tools": ["Node", "Docker", "Git", "VS", "VS Code", "Termius"],
             "design": ["Figma", "Canva", "Photoshop", "AI Image Gen", "AI Image Enhance"],
         },
+
         "education": [
             {
                 "organization": "GET Academy",
@@ -26,6 +29,7 @@ def create_github_profile():
                     "end": "2024-01-10",
                 },
             },
+
             {
                 "organization": "GET Academy",
                 "department": "Get Prepared",
