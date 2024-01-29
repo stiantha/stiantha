@@ -1,25 +1,32 @@
 ![webdev](https://github.com/stiantha/stiantha/assets/132207909/bac8f9c2-37e8-4abc-ba59-fa6c384ad9ec)
 
 ```python
-{
-  age: 27,
-  origin: [Grefsen, Oslo, Norway],
-  passion: [UI Design, Responsive Web Design, New Technologies],
+github_profile = {
 
-  stack: [MongoDB, Express, React, Node],
-  code: [Javascript, Typescript, Python, .NET],
-  tools: [Node, Docker, Git, VS, VS Code, Termius, Heroku],
-  design: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance],
+  personalInfo: {
+    age: 27,
+    origin: [Grefsen, Oslo, Norway],
+    passion: [UI Design, Responsive Web Design, New Technologies],
+  },
+
+  techStack: {
+    languages: [Javascript, Typescript, Python, .NET],
+    webStack: [MongoDB, Express, React, Node],
+    tools: [Node, Docker, Git, VS, VS Code, Termius],
+    designTools: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance],
+  },
 
   education: {
     organization: GET Academy,
     department: Fagskolen,
-    credit: 30 SP,
+    credit: 30,
     period: {
       start: 2023-08-07,
-      end: 2024-01-10
+      end: 2024-01-10,
+
     },
-  }
+  },
 };
+
 
 ```
