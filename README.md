@@ -14,8 +14,8 @@ const stian = {
   design: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance]
 
   currentWork: {
-                  organization: "GetAcademy",
-                  department: "Get Prepared"
+                  organization: "GET Academy",
+                  department: "GET Prepared"
                   role: "Student",
                },
 }
