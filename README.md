@@ -3,20 +3,21 @@
 
 ```python
 const stian = {
-
-  age: 27
-  origin: Grefsen, Oslo, Norway
-  passion: [UI Design, Efficient and structured solutions]
-  stack: [MongoDB, Express, React, Node]
-  code: [Javascript, Typescript, Python, .NET],
-  tools: [Node, Docker, Git, VS, VS Code, Termius],
-  design: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance]
-
+  age: 27,
+  origin: "Grefsen, Oslo, Norway",
+  passion: [
+    "UI Design",
+    "Efficient and Structured Solutions",
+  ],
+  stack: ["MongoDB", "Express", "React", "Node"],
+  code: ["Javascript", "Typescript", "Python", ".NET"],
+  tools: ["Node", "Docker", "Git", "VS", "VS Code", "Termius"],
+  design: ["Figma", "Canva", "Photoshop", "AI Image Gen", "AI Image Enhance"],
   currentWork: {
-                  organization: "GET Academy",
-                  department: "GET Prepared"
-                  role: "Student",
-               },
-}
+    organization: "GET Academy",
+    department: "GET Prepared",
+    role: "Student",
+  },
+};
 ```
 
