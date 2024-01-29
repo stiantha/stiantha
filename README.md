@@ -1,8 +1,5 @@
-<div align=right>
-  
-![techstack](https://github.com/stiantha/stiantha/assets/132207909/56d5165e-04fe-4754-9f5c-64f2e6616589)
+![webdev](https://github.com/stiantha/stiantha/assets/132207909/bac8f9c2-37e8-4abc-ba59-fa6c384ad9ec)
 
-</div>
 
 ```python
 const stian = {
