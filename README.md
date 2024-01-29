@@ -8,7 +8,7 @@
 
   stack: [MongoDB, Express, React, Node],
   code: [Javascript, Typescript, Python, .NET],
-  tools: [Node, Docker, Git, VS, VS Code, Termius],
+  tools: [Node, Docker, Git, VS, VS Code, Termius, Heroku],
   design: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance],
 
   education: {
