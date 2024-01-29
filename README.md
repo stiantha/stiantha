@@ -10,7 +10,7 @@ const stian = {
 
   stack: [MongoDB, Express, React, Node]
   code: [Javascript, Typescript, Python, .NET],
-  tools: [Node, Docker, Git, VS Code, VS 2022, Termius],
+  tools: [Node, Docker, Git, VS, VS Code, Termius],
   design: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance]
 
   currentWork:{
