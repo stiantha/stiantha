@@ -10,7 +10,7 @@ def create_github_profile():
             "origin": ["Grefsen", "Oslo", "Norway"],
             "passion": ["UI Design", "Responsive Web Design", "New Technologies"],
         },
-        "techStack": {
+        "tech": {
             "languages": ["Javascript", "Typescript", "Python", ".NET"],
             "stack": ["MongoDB", "Express", "React", "Node"],
             "tools": ["Node", "Docker", "Git", "VS", "VS Code", "Termius"],
