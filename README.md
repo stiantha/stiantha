@@ -6,7 +6,7 @@ const stian = {
 
   age: 27
   origin: Grefsen, Oslo, Norway
-  passion: ["UI Design", "Efficient and structured solutions"]
+  passion: [UI Design, Efficient and structured solutions]
   stack: [MongoDB, Express, React, Node]
   code: [Javascript, Typescript, Python, .NET],
   tools: [Node, Docker, Git, VS, VS Code, Termius],
