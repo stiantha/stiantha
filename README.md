@@ -13,7 +13,6 @@ const stian = {
   tools: [Node, Docker, Git, VS, VS Code, Termius],
   design: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance]
 
-  currentProject: "DevTools, collection of resources for developers"
   currentWork:{
                   organization: "GetAcademy",
                   role: "Student",
