@@ -11,11 +11,11 @@ const stian = {
   code: [Javascript, Typescript, Python, .NET],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   passion: ["UI Design", "Machine Learning"],
-  currentLife: {
-                        organization: "GetAcademy",
-                        role: "Student",
-                        position: "Get Prepared"
-                      },
+  currentLife:{
+                  organization: "GetAcademy",
+                  role: "Student",
+                  position: "Get Prepared"
+              },
  currentProject: "DevTools, collection of resources for developers"
 }
 ```
