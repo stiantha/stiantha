@@ -30,7 +30,7 @@ def create_github_profile():
                 "organization": "GET Academy",
                 "department": "Get Prepared",
                 "period": {
-                    "start": "2024-01-11",
+                    "start": "2024-01-22",
                     "end": currentDate.toISOString().split('T')[0],
                 },
             },
