@@ -2,12 +2,6 @@
 🧓  27 år <br>
 ✉️  [stiant@getacademy.no](mailto:stiant@getacademy.no) <br>
 *******
-💎  Interesseområder<br>
-
-[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODQuMDk3MjcwOTY1NTc2MiIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDI4NC4wOTcyNzA5NjU1NzYyIDM1Ij48cmVjdCB3aWR0aD0iNzcuOTg1MjEwNDE4NzAxMTciIGhlaWdodD0iMzUiIGZpbGw9IiMwMDAwMDAiLz48cmVjdCB4PSI3Ny45ODUyMTA0MTg3MDExNyIgd2lkdGg9IjIwNi4xMTIwNjA1NDY4NzUiIGhlaWdodD0iMzUiIGZpbGw9IiNkNjhhMGEiLz48dGV4dCB4PSIzOC45OTI2MDUyMDkzNTA1ODYiIHk9IjE3LjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgYWxpZ25tZW50LWJhc2VsaW5lPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj5ERVNJR048L3RleHQ+PHRleHQgeD0iMTgxLjA0MTI0MDY5MjEzODY3IiB5PSIxNy41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPkJSVUtFUkdSRU5TRVNOSVRUPC90ZXh0Pjwvc3ZnPg==)](https://forthebadge.com)
-
-# Strukturerte og lett tilgjengelige løsninger.<br> 
-*******
 ## Stack
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark)](https://skillicons.dev)
 <p align="left">
