@@ -1,3 +1,4 @@
+![techstack](https://github.com/stiantha/stiantha/assets/132207909/56d5165e-04fe-4754-9f5c-64f2e6616589)
 
 
 ```python
