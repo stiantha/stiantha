@@ -6,12 +6,17 @@
 
 ```python
 const stian = {
+
   age: 27
+  origin: Grefsen, Oslo, Norway
+  passion: ["UI Design", "Efficient and structured solutions"],
+
   stack: [MongoDB, Express, React, Node]
   code: [Javascript, Typescript, Python, .NET],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  passion: ["UI Design", "Machine Learning"],
-  currentLife:{
+  tools: [Node, Docker, Git, VS Code, VS 2022, Termius],
+  design: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance]
+
+  currentWork:{
                   organization: "GetAcademy",
                   role: "Student",
                   position: "Get Prepared"
