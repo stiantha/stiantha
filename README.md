@@ -13,12 +13,12 @@ const github_profile = {
   design: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance],
 
   education: {
-                organization: "GET Academy",
-                department: "Fagskolen",
-                credit: "30 SP",
+                organization: GET Academy,
+                department: Fagskolen,
+                credit: 30 SP,
                 period: {
-                  start: "2023-08-07",
-                  end: "2024-01-10"
+                  start: 2023-08-07,
+                  end: 2024-01-10
              },
   };
 ```
