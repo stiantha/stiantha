@@ -3,8 +3,8 @@
 ✉️  [stiant@getacademy.no](mailto:stiant@getacademy.no) <br>
 *******
 💎  Interesseområder
-- Design av brukergrensesnitt
-- Strukturerte og lett tilgjengelige løsninger.<br> 
+[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODQuMDk1MzcxMjQ2MzM3OSIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDI4NC4wOTUzNzEyNDYzMzc5IDM1Ij48cmVjdCB3aWR0aD0iNzcuOTg0NzYwMjg0NDIzODMiIGhlaWdodD0iMzUiIGZpbGw9IiMwMDAwMDAiLz48cmVjdCB4PSI3Ny45ODQ3NjAyODQ0MjM4MyIgd2lkdGg9IjIwNi4xMTA2MTA5NjE5MTQwNiIgaGVpZ2h0PSIzNSIgZmlsbD0iI2Q2OGEwYSIvPjx0ZXh0IHg9IjM4Ljk5MjM4MDE0MjIxMTkxNCIgeT0iMTcuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPkRFU0lHTjwvdGV4dD48dGV4dCB4PSIxODEuMDQwMDY1NzY1MzgwODYiIHk9IjE3LjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGFsaWdubWVudC1iYXNlbGluZT0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+QlJVS0VSR1JFTlNFU05JVFQ8L3RleHQ+PC9zdmc+)](https://forthebadge.com)
+# Strukturerte og lett tilgjengelige løsninger.<br> 
 *******
 ## Stack
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark)](https://skillicons.dev)
