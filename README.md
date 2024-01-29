@@ -1,12 +1,12 @@
 
 
-```javascript
+```python
 const stian = {
   age: 27
   stack: [MongoDB, Express, React, Node]
   code: [Javascript, Typescript, Python, C#],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  passion: ["UI Design", "Machine Learning"],
   currentLife: {
                         organization: "GetAcademy",
                         role: "Student",
