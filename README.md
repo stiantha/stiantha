@@ -15,7 +15,7 @@ const stian = {
   education: {
                 organization: "GET Academy",
                 department: "Fagskolen",
-                credit: "30 Studiepoeng",
+                credit: "30 SP",
                 period: {
                   start: "2023-07-01",
                   end: "2024-01-10"
