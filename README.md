@@ -4,13 +4,13 @@
 const stian = {
 
   age: 27
-  origin: Grefsen, Oslo, Norway
-  passion: [UI Design, Responsive Web Design, New Technologies]
+  origin: [Grefsen, Oslo, Norway],
+  passion: [UI Design, Responsive Web Design, New Technologies],
 
-  stack: [MongoDB, Express, React, Node]
+  stack: [MongoDB, Express, React, Node],
   code: [Javascript, Typescript, Python, .NET],
   tools: [Node, Docker, Git, VS, VS Code, Termius],
-  design: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance]
+  design: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance],
 
   education: {
                 organization: "GET Academy",
@@ -19,6 +19,6 @@ const stian = {
                 period: {
                   start: "2023-07-01",
                   end: "2024-01-10"
-             }
+             },
   };
 ```
