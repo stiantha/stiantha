@@ -2,41 +2,38 @@
 
 ```python
 const currentDate = new Date();
-const github_profile = {
 
-  personalInfo: {
-    age: 27,
-    origin: [Grefsen, Oslo, Norway],
-    passion: [UI Design, Responsive Web Design, New Technologies],
-  },
-
-  techStack: {
-    languages: [Javascript, Typescript, Python, .NET],
-    webStack: [MongoDB, Express, React, Node],
-    tools: [Node, Docker, Git, VS, VS Code, Termius],
-    designTools: [Figma, Canva, Photoshop, AI Image Gen, AI Image Enhance],
-  },
-
-  education: [
-    {
-      organization: GET Academy,
-      department: Fagskolen,
-      credit: 30,
-      period: {
-        start: 2023-08-07,
-        end: 2024-01-10,
-      },
-    },
-    {
-      organization: GET Academy,
-      department: Get Prepared,
-      period: {
-        start: 2024-01-22,
-        end: currentDate.toISOString().split('T')[0]
-      },
-    },
-  ],
-};
-
-
+def create_github_profile():
+    return {
+        "personalInfo": {
+            "age": 27,
+            "origin": ["Grefsen", "Oslo", "Norway"],
+            "passion": ["UI Design", "Responsive Web Design", "New Technologies"],
+        },
+        "techStack": {
+            "languages": ["Javascript", "Typescript", "Python", ".NET"],
+            "webStack": ["MongoDB", "Express", "React", "Node"],
+            "tools": ["Node", "Docker", "Git", "VS", "VS Code", "Termius"],
+            "designTools": ["Figma", "Canva", "Photoshop", "AI Image Gen", "AI Image Enhance"],
+        },
+        "education": [
+            {
+                "organization": "GET Academy",
+                "department": "Fagskolen",
+                "credit": 30,
+                "period": {
+                    "start": "2023-08-07",
+                    "end": "2024-01-10",
+                },
+            },
+            {
+                "organization": "GET Academy",
+                "department": "Get Prepared",
+                "period": {
+                    "start": "2024-01-11",
+                    "end": currentDate.toISOString().split('T')[0],
+                },
+            },
+        ],
+    }
 ```
