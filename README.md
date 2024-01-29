@@ -12,7 +12,7 @@ def create_github_profile():
         },
         "techStack": {
             "languages": ["Javascript", "Typescript", "Python", ".NET"],
-            "webStack": ["MongoDB", "Express", "React", "Node"],
+            "stack": ["MongoDB", "Express", "React", "Node"],
             "tools": ["Node", "Docker", "Git", "VS", "VS Code", "Termius"],
             "design": ["Figma", "Canva", "Photoshop", "AI Image Gen", "AI Image Enhance"],
         },
