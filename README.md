@@ -1,6 +1,5 @@
 ![webdev](https://github.com/stiantha/stiantha/assets/132207909/bac8f9c2-37e8-4abc-ba59-fa6c384ad9ec)
 
-
 ```python
 const stian = {
   age: 27,
