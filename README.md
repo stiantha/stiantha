@@ -16,7 +16,7 @@ def github_profile():
             "languages": ["Javascript", "Typescript", "Python", ".NET"],
             "stack": ["MongoDB", "Express", "React", "Node"],
             "tools": ["Node", "Docker", "Git", "VS", "VS Code", "Termius"],
-            "design": ["Figma", "Canva", "Photoshop", "AI Image Gen", "AI Image Enhance"],
+            "design": ["Figma", "Canva", "Photoshop",
         },
 
         "education": [
