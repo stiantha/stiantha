@@ -15,7 +15,7 @@ def github_profile():
         "tech": {
             "languages": ["Javascript", "Typescript", "Python", ".NET"],
             "stack": ["MongoDB", "Express", "React", "Node"],
-            "tools": ["Node", "Docker", "Git", "VS", "VS Code", "Termius"],
+            "tools": ["Docker", "Git", "VS", "VS Code", "Termius"],
             "design": ["Figma", "Canva", "Photoshop",
         },
 
