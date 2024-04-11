@@ -18,22 +18,22 @@ def github_profile():
                 },
 
         "education": [
-                        {
-                        "organization": "GET Academy",
-                        "department": "Fagskolen",
-                        "credit": 30,
-                        "period": {
-                            "start": "2023-08-07",
-                            "end": "2024-01-10",
-                        },
-        
-                        {
-                        "organization": "GET Academy",
-                        "department": "Get Prepared",
-                        "period": {
-                            "start": "2024-01-22",
-                            "end": currentDate,
-                        },
-                    ],
+                {
+                "organization": "GET Academy",
+                "department": "Fagskolen",
+                "credit": 30,
+                "period": {
+                    "start": "2023-08-07",
+                    "end": "2024-01-10",
+                },
+
+                {
+                "organization": "GET Academy",
+                "department": "Get Prepared",
+                "period": {
+                    "start": "2024-01-22",
+                    "end": currentDate,
+                },
+            ],
         }
 ```
