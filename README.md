@@ -10,14 +10,14 @@ def github_profile():
                 "age": 27,
                 "origin": ["Grefsen", "Oslo", "Norway"],
                 "passion": ["UI Design", "Responsive Web Design", "New Technologies"],
-            },
+                },
 
         "tech": {
                 "languages": ["Javascript", "Typescript", "Python", ".NET"],
                 "stack": ["MongoDB", "Express", "React", "Node"],
                 "tools": ["Docker", "Git", "VS", "VS Code", "Termius"],
                 "design": ["Figma", "Canva", "Photoshop",
-            },
+                },
 
         "education": [
                         {
@@ -36,6 +36,6 @@ def github_profile():
                             "start": "2024-01-22",
                             "end": currentDate,
                         },
-            ],
+                    ],
         }
 ```
