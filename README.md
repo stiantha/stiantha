@@ -7,37 +7,35 @@ def github_profile():
     return {
 
         "personalInfo": {
-            "age": 27,
-            "origin": ["Grefsen", "Oslo", "Norway"],
-            "passion": ["UI Design", "Responsive Web Design", "New Technologies"],
-        },
+                "age": 27,
+                "origin": ["Grefsen", "Oslo", "Norway"],
+                "passion": ["UI Design", "Responsive Web Design", "New Technologies"],
+            },
 
         "tech": {
-            "languages": ["Javascript", "Typescript", "Python", ".NET"],
-            "stack": ["MongoDB", "Express", "React", "Node"],
-            "tools": ["Docker", "Git", "VS", "VS Code", "Termius"],
-            "design": ["Figma", "Canva", "Photoshop",
-        },
+                "languages": ["Javascript", "Typescript", "Python", ".NET"],
+                "stack": ["MongoDB", "Express", "React", "Node"],
+                "tools": ["Docker", "Git", "VS", "VS Code", "Termius"],
+                "design": ["Figma", "Canva", "Photoshop",
+            },
 
         "education": [
-            {
-                "organization": "GET Academy",
-                "department": "Fagskolen",
-                "credit": 30,
-                "period": {
-                    "start": "2023-08-07",
-                    "end": "2024-01-10",
-                },
-            },
-
-            {
-                "organization": "GET Academy",
-                "department": "Get Prepared",
-                "period": {
-                    "start": "2024-01-22",
-                    "end": currentDate,
-                },
-            },
-        ],
-    }
+                        {
+                        "organization": "GET Academy",
+                        "department": "Fagskolen",
+                        "credit": 30,
+                        "period": {
+                            "start": "2023-08-07",
+                            "end": "2024-01-10",
+                        },
+        
+                        {
+                        "organization": "GET Academy",
+                        "department": "Get Prepared",
+                        "period": {
+                            "start": "2024-01-22",
+                            "end": currentDate,
+                        },
+            ],
+        }
 ```
