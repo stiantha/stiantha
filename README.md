@@ -35,7 +35,7 @@ def github_profile():
                 "department": "Get Prepared",
                 "period": {
                     "start": "2024-01-22",
-                    "end": currentDate.toISOString().split('T')[0],
+                    "end": currentDate,
                 },
             },
         ],
