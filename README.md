@@ -4,6 +4,8 @@
     "age": 27,
     "city": "Oslo",
     "previous_job": "Electrician",
+    "current_job: "Software Develolper",
+    "current_department: "Control Systems", 
     "passion": [
       "UI/UX",
       "Automation",
@@ -11,47 +13,12 @@
       "Optimize Repetitive Patterns"
     ]
   },
-
-  "tech": {
+```
+```json
+  "tech_stack": {
     "languages": ["Javascript", "Typescript", "Python"],
     "frameworks": ["Express", "React", "Dash"],
     "tools": ["Git", "GitLab", "Docker", "Podman"],
     "other": ["Linux", "MongoDB", "SQL", "Node"]
   },
-```
-```json
-  "education": [
-    {
-      "organization": "GET Academy",
-      "department": "Fagskolen",
-      "credit": 30,
-      "period": {
-        "start": "2023-08-07",
-        "end": "2024-01-10"
-      }
-    },
-    {
-      "organization": "GET Academy",
-      "department": "Get Prepared",
-      "credit": 0,
-      "period": {
-        "start": "2024-01-22",
-        "end": "2024-06-01"
-      }
-    }
-  ],
-```
-```json
-  "experience": [
-    {
-      "organization": "N2-Applied",
-      "department": "Control System",
-      "period": {
-        "start": "2024-06-01",
-        "end": "2025-06-01"
-      }
-    }
-  ]
-}
-
 ```
