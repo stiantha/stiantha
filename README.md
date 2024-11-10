@@ -18,7 +18,8 @@
     "tools": ["Git", "GitLab", "Docker", "Podman"],
     "other": ["Linux", "MongoDB", "SQL", "Node"]
   },
-
+```
+```json
   "education": [
     {
       "organization": "GET Academy",
@@ -39,7 +40,8 @@
       }
     }
   ],
-
+```
+```json
   "experience": [
     {
       "organization": "N2-Applied",
