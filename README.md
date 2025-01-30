@@ -1,7 +1,7 @@
 ```json
 {
   "about": {
-    "age": 27,
+    "age": 28,
     "city": "Oslo",
     "passion": [
       "UI/UX",
