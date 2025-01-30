@@ -3,19 +3,15 @@
   "about": {
     "age": 27,
     "city": "Oslo",
-    "previous_job": "Electrician",
-    "current_job": "Software Developer",
-    "current_department": "Control Systems",
     "passion": [
       "UI/UX",
       "Automation",
       "Creativity",
-      "Optimize Repetitive Patterns"
     ]
   },
 ```
 ```json
-  "tech_stack": {
+  "knowledge": {
     "languages": ["Javascript", "Typescript", "Python"],
     "frameworks": ["Express", "React", "Dash"],
     "tools": ["Git", "GitLab", "Docker", "Podman"],
